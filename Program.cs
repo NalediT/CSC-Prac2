@@ -1,8 +1,9 @@
 ﻿using System;
+using Tests;
 
 namespace MyStuff
 {
-    public class Program
+    public  class Program
     {
         public static string Prefix(string str)
         {
